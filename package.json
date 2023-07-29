@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tani",
+  "license": "ISC",
+  "description": ""
+}
